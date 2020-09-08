@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{8C6BD503-D506-4074-9F71-317F981F6590}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoApi/Models/AlbumRepository.cs">
+    <Files>
+      <File FileName="TodoApi/Models/Person.cs" Line="8" Column="35" />
+      <File FileName="TodoApi/Models/DataContext.cs" />
+      <File FileName="TodoApi/Startup.cs" />
+      <File FileName="TodoApi/appsettings.json" />
+      <File FileName="TodoApi/appsettings.Development.json" />
+      <File FileName="TodoApi/Program.cs" />
+      <File FileName="TodoApi/WeatherForecast.cs" />
+      <File FileName="TodoApi/Properties/launchSettings.json" />
+      <File FileName="TodoApi/Controllers/PersonController.cs" />
+      <File FileName="TodoApi/Controllers/WeatherForecastController.cs" />
+      <File FileName="TodoApi/Models/Album.cs" />
+      <File FileName="TodoApi/Models/AlbumRepository.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TodoApi" expanded="True">
+            <Node name="TodoApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="AlbumRepository.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TodoApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

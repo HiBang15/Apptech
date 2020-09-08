@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{9EBD3700-A2F5-4CB0-B679-DE1F823BE808}|">
+  <MonoDevelop.Ide.ItemProperties.test PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="test/packages.config">
+    <Files>
+      <File FileName="test/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="test/App_Start/RouteConfig.cs" />
+      <File FileName="test/Views/Home/Index.cshtml" />
+      <File FileName="test/Views/Shared/_Layout.cshtml" />
+      <File FileName="test/packages.config" Line="6" Column="90" />
+      <File FileName="test/Web.config" Line="1" Column="1" />
+      <File FileName="test/Models/Subject.cs" />
+      <File FileName="test/Models/Student.cs" />
+      <File FileName="test/Models/Exam.cs" Line="5" Column="6" />
+      <File FileName="test/Controllers/ExamController.cs" Line="1" Column="1" />
+      <File FileName="test/Views/Exam/index.cshtml" Line="14" Column="1" />
+      <File FileName="test/Global.asax" Line="1" Column="1" />
+      <File FileName="test/Models/DataContext.cs" Line="2" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test" expanded="True" selected="True">
+            <Node name="test" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.test.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

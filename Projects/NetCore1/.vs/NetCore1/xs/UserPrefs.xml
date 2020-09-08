@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{E0F56B7D-2020-41A2-BB47-9979D6AAC404}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NetCore1/Controllers/ExamsController.cs">
+    <Files>
+      <File FileName="NetCore1/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="NetCore1/Controllers/HomeController.cs" />
+      <File FileName="NetCore1/Models/Subject.cs" />
+      <File FileName="NetCore1/Models/Student.cs" />
+      <File FileName="NetCore1/Models/Exam.cs" />
+      <File FileName="NetCore1/Models/DataContext.cs" />
+      <File FileName="NetCore1/Models/DataInitializer.cs" />
+      <File FileName="NetCore1/Views/Exam/Index.cshtml" />
+      <File FileName="NetCore1/Views/Home/Index.cshtml" />
+      <File FileName="NetCore1/Controllers/ExamsController.cs" Line="14" Column="2" />
+      <File FileName="NetCore1/Views/_ViewStart.cshtml" />
+      <File FileName="NetCore1/Views/_ViewImports.cshtml" />
+      <File FileName="NetCore1/appsettings.Development.json" />
+      <File FileName="NetCore1/Program.cs" />
+      <File FileName="NetCore1/Startup.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NetCore1" expanded="True">
+            <Node name="NetCore1" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ExamsController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NetCore1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

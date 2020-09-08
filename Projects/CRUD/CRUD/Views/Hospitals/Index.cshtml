@@ -1,0 +1,58 @@
+﻿@Model IEnumerable<CRUD.Models.Hospitals>
+    @{
+        ViewData["Title"] = "List";
+    }
+    <section>
+        <div>
+            <H3>Manage Hospital</H3>
+        </div>
+
+        <div>
+            <table Id="example1">
+                <thead>
+                    <tr>
+                        <th>hospitalsid</th>
+                        <th>hospitalname</th>
+                        <th>decisionmaker</th>
+                        <th>email</th>
+                        <th>phone</th>
+                        <th>password</th>
+                        <th>services</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (Hospitals item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.HospitalId)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.HospitalName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.DecisionMaker)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Email)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Phone)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Password)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Services)
+                            </td>
+                            <td>
+                                <a href="Hospitals/Update/@item.HospitalId">
+                                    Update
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </section>

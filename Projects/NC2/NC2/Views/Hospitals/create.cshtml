@@ -1,0 +1,44 @@
+﻿@model CRUD.Models.Hospitals
+
+<section>
+    <div>
+        <form method="post" action="createhospital">
+            <div>
+                <label for="hospitalname">Hospitalname</label>
+                <Input Type="text"
+                       Name="hospitalname" Placeholder="hospitalname">
+                <div>
+                    <label for="decisionmaker">decisionmaker</label>
+                    <Input Type="text"
+                           Name="decisionmaker" Placeholder="decisionmaker">
+                </div>
+                <div ">
+                    <label for="email">Email</label>
+                    <Input Type="email"
+                           Name="email" Placeholder="email">
+                </div>
+                <div>
+                    <label for="phone">Phone</label>
+
+                    <Input Type="text" Class="form-Control"
+                           Name="phone" Placeholder="phone">
+                </div>
+                <div>
+                    <label for="password"
+                           Class="col-Sm-2 Control-label">password</label>
+                    <Input Type="password" Class="form-Control"
+                           Name="password" Placeholder="password">
+                </div>
+                <div>
+                    <label for="services">Services</label>
+                    <Input Type="text"
+                           Name="services" Placeholder="services">
+                </div>
+            </div>
+            <div>
+                <Button Type="submit" >Cancel</Button>
+                <Button Type="submit" ">Create</Button>
+            </div>
+        </form>
+    </div>
+</section>

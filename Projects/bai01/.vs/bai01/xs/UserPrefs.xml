@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{445617E3-3934-4E3E-A877-2528A17289C3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="bai01/Startup.cs">
+    <Files>
+      <File FileName="bai01/Models/Subject.cs" Line="13" Column="46" />
+      <File FileName="bai01/Models/Student.cs" />
+      <File FileName="bai01/Models/Exam.cs" />
+      <File FileName="bai01/Models/DataContext.cs" />
+      <File FileName="bai01/Models/DataInitializer.cs" />
+      <File FileName="bai01/appsettings.json" />
+      <File FileName="bai01/Startup.cs" Line="28" Column="122" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="bai01" expanded="True">
+            <Node name="bai01" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" selected="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.bai01 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

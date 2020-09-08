@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{658D472C-C310-46B7-81D5-D35AB90BFF8D}|Default">
+  <MonoDevelop.Ide.ItemProperties.CRUD PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CRUD/appsettings.json">
+    <Files>
+      <File FileName="CRUD/Models/Hospitals.cs" Line="8" Column="12" />
+      <File FileName="CRUD/Models/HospitalDetails.cs" Line="1" Column="1" />
+      <File FileName="CRUD/Data/CRUDContext.cs" Line="1" Column="1" />
+      <File FileName="CRUD/Startup.cs" Line="34" Column="54" />
+      <File FileName="CRUD/Program.cs" Line="1" Column="1" />
+      <File FileName="CRUD/appsettings.json" Line="1" Column="1" />
+      <File FileName="CRUD/Data/DbInitialize.cs" Line="1" Column="1" />
+      <File FileName="CRUD/app.db" />
+      <File FileName="CRUD/Controllers/HospitalsController.cs" Line="19" Column="1" />
+      <File FileName="CRUD/Views/Hospitals/Index.cshtml" Line="59" Column="1" />
+      <File FileName="CRUD/CRUD.db" Line="1" Column="1" />
+      <File FileName="CRUD/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CRUD" expanded="True">
+            <Node name="CRUD" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Hospitals" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../NC2/NC2/Controllers/HospitalsController.cs" line="19" column="16" endLine="19" endColumn="59" offsetX="-1" offsetY="-1" expression="HospitalsList" liveUpdate="True" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kieutuanlong/Projects/CRUD/CRUD/Controllers/HospitalsController.cs" relfile="CRUD/Controllers/HospitalsController.cs" line="19" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

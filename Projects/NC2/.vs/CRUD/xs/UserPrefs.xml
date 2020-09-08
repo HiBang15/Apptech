@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{20A5ABEE-6AF4-4140-A580-3409138BF13B}|Default">
+  <MonoDevelop.Ide.ItemProperties.CRUD PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NC2/Startup.cs">
+    <Files>
+      <File FileName="NC2/Data/CRUDContext.cs" Line="23" Column="18" />
+      <File FileName="NC2/Data/Dbinitialize.cs" />
+      <File FileName="NC2/Models/Hospitals.cs" />
+      <File FileName="NC2/appsettings.json" />
+      <File FileName="NC2/Startup.cs" Line="33" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CRUD" expanded="True">
+            <Node name="CRUD" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../NC2/Controllers/HospitalsController.cs" line="19" column="16" endLine="19" endColumn="59" offsetX="-1" offsetY="-1" expression="HospitalsList" liveUpdate="True" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

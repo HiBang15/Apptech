@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{81CAD7E6-4D55-442A-ACFD-9F5F081A57E1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="L1/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="L1/Controllers/HelloController.cs" Line="39" Column="31" />
+      <File FileName="L1/Views/Hello/Index.cshtml" />
+      <File FileName="L1/Models/Movie.cs" />
+      <File FileName="L1/Data/MvcMovieContext.cs" />
+      <File FileName="L1/appsettings.json" />
+      <File FileName="L1/Startup.cs" Line="30" Column="24" />
+      <File FileName="L1/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="L1" expanded="True">
+            <Node name="L1" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Hello" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.L1 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

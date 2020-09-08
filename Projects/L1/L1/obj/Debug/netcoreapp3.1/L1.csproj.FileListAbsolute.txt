@@ -1,0 +1,7 @@
+/Users/kieutuanlong/Projects/L1/L1/obj/Debug/netcoreapp3.1/L1.csprojAssemblyReference.cache
+/Users/kieutuanlong/Projects/L1/L1/obj/Debug/netcoreapp3.1/L1.AssemblyInfoInputs.cache
+/Users/kieutuanlong/Projects/L1/L1/obj/Debug/netcoreapp3.1/L1.AssemblyInfo.cs
+/Users/kieutuanlong/Projects/L1/L1/obj/Debug/netcoreapp3.1/L1.csproj.CoreCompileInputs.cache
+/Users/kieutuanlong/Projects/L1/L1/obj/Debug/netcoreapp3.1/L1.MvcApplicationPartsAssemblyInfo.cache
+/Users/kieutuanlong/Projects/L1/L1/obj/Debug/netcoreapp3.1/L1.RazorAssemblyInfo.cache
+/Users/kieutuanlong/Projects/L1/L1/obj/Debug/netcoreapp3.1/L1.RazorAssemblyInfo.cs
